@@ -1,6 +1,4 @@
 # Portafolio | Aurelio Astorga Rodriguez
-[Ver proyecto detallado](./smartagenda/)
-
 Estudiante de Ingeniería de Software  
 Enfocado en Desarrollo Front-End y Diseño UI/UX  
 México | Universidad Autónoma de Occidente
@@ -18,6 +16,8 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 ## Proyectos
 
 ### SmartAgenda – Diseño UI/UX + Desarrollo
+[Ver proyecto detallado](./smartagenda/)
+
 > Prototipo funcional de una app de recordatorios
 
 - Diseñé el prototipo completo en Figma, priorizando usabilidad y navegación clara.
@@ -32,6 +32,8 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 ---
 
 ### ForoLince – Diseño UI/UX
+[Ver proyecto detallado](./forolince/)
+
 > Interfaz académica tipo foro, diseñada en Figma
 
 - Creé una interfaz enfocada en la accesibilidad visual, navegación simple y jerarquía clara.
