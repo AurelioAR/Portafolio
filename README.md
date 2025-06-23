@@ -22,7 +22,7 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 - Asumí el rol de **Scrum Master**, organizando el trabajo del equipo, flujos y funcionalidades.
 - Apoyé en el desarrollo usando **React Native** e integración de APIs con **Expo**.
 
-[Ver proyecto detallado](./smartagenda/)
+[Ver proyecto detallado](./proyectos/smartagenda/)
 
 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
@@ -37,7 +37,7 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 - Creé una interfaz enfocada en la accesibilidad visual, navegación simple y jerarquía clara.
 - Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
-[Ver proyecto detallado](./forolince/)
+[Ver proyecto detallado](./proyectos/forolince/)
 
 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
 
