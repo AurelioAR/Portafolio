@@ -1,8 +1,8 @@
 # Portafolio | Aurelio Astorga Rodriguez
 
-🎓 Estudiante de Ingeniería de Software  
-🎯 Enfocado en Desarrollo Front-End y Diseño UI/UX  
-📍 México | Universidad Autónoma de Occidente
+Estudiante de Ingeniería de Software  
+Enfocado en Desarrollo Front-End y Diseño UI/UX  
+México | Universidad Autónoma de Occidente
 
 ---
 
