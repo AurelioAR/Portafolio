@@ -23,6 +23,7 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 - Apoyé en el desarrollo usando **React Native** e integración de APIs con **Expo**.
 
 [Ver proyecto detallado](./smartagenda/)
+
 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ### Vista Previa
@@ -37,6 +38,7 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 - Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
 [Ver proyecto detallado](./forolince/)
+
 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ### Vista Previa
