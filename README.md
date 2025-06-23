@@ -28,8 +28,6 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 Vista Previa
 ![SmartAgenda Preview](./assets/smartagenda-preview)
 
-
-
 ---
 
 ### ForoLince – Diseño UI/UX
@@ -39,8 +37,10 @@ Vista Previa
 - Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
 🔗 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
+
 Vista Previa
-![ForoLince Preview](./assets/forolince-preview.png)
+![Forolince Preview](./assets/forolince-preview)
+
 ---
 
 ## Habilidades Técnicas
