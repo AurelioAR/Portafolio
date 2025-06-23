@@ -16,15 +16,14 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 ## Proyectos
 
 ### SmartAgenda – Diseño UI/UX + Desarrollo
-[Ver proyecto detallado](./smartagenda/)
-
 > Prototipo funcional de una app de recordatorios
 
 - Diseñé el prototipo completo en Figma, priorizando usabilidad y navegación clara.
 - Asumí el rol de **Scrum Master**, organizando el trabajo del equipo, flujos y funcionalidades.
 - Apoyé en el desarrollo usando **React Native** e integración de APIs con **Expo**.
 
-🔗 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
+[Ver proyecto detallado](./smartagenda/)
+[Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ### Vista Previa
 ![SmartAgenda Preview](./assets/smartagenda-preview)
@@ -32,14 +31,13 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 ---
 
 ### ForoLince – Diseño UI/UX
-[Ver proyecto detallado](./forolince/)
-
 > Interfaz académica tipo foro, diseñada en Figma
 
 - Creé una interfaz enfocada en la accesibilidad visual, navegación simple y jerarquía clara.
 - Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
-🔗 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
+[Ver proyecto detallado](./forolince/)
+[Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ### Vista Previa
 ![Forolince Preview](./assets/forolince-preview)
