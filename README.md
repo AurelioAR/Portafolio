@@ -1,4 +1,4 @@
-# 💼 Portafolio | [Tu Nombre]
+# Portafolio | Aurelio Astorga Rodriguez
 
 🎓 Estudiante de Ingeniería de Software  
 🎯 Enfocado en Desarrollo Front-End y Diseño UI/UX  
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de Ingeniería de Software (7° semestre), con enfoque en el desarrollo front-end y el diseño de interfaces centradas en el usuario. Tengo experiencia práctica en Figma, HTML, CSS y JavaScript, y actualmente me estoy formando en frameworks como React y Angular.
 
@@ -14,52 +14,70 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 
 ---
 
-## 🧪 Proyectos
+## Proyectos
 
-### 📱 SmartAgenda
-> **Rol:** UI/UX Designer + Scrum Master + Soporte en desarrollo  
-- Prototipo interactivo en Figma  
-- Organización del equipo bajo metodología Scrum  
-- Apoyo en integración con React Native y Expo (notificaciones push)
+### SmartAgenda – Diseño UI/UX + Desarrollo
+> Prototipo funcional de una app de recordatorios
 
-[Ver diseño en Figma (opcional)](#)
+- Diseñé el prototipo completo en Figma, priorizando usabilidad y navegación clara.
+- Asumí el rol de **Scrum Master**, organizando el trabajo del equipo, flujos y funcionalidades.
+- Apoyé en el desarrollo usando **React Native** e integración de APIs con **Expo**.
 
----
-
-### 🧩 ForoLince
-> **Rol:** UI/UX Designer  
-- Diseño de interfaz de un foro académico
-- Enfoque en navegación clara, accesible y atractiva
+🔗 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ---
 
-## 🔧 Habilidades Técnicas
+### ForoLince – Diseño UI/UX
+> Interfaz académica tipo foro, diseñada en Figma
 
-**Frontend:** HTML5, CSS3, JavaScript (básico), React (aprendizaje), Angular (aprendizaje)  
-**UI/UX:** Figma, Diseño centrado en el usuario, Arquitectura visual  
-**Sistemas:** Soporte técnico básico, mantenimiento de sistemas, resolución de problemas en Windows  
-**Metodologías:** Scrum, trabajo en equipo, organización ágil
+- Creé una interfaz enfocada en la accesibilidad visual, navegación simple y jerarquía clara.
+- Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
----
-
-## 📚 Formación
-
-- **Universidad Autónoma de Occidente** – Ingeniería en Software (2022 - Actualidad)
-- **Udemy:**  
-  - Universidad del Desarrollo Web ✅ (Completado)  
-  - Universidad JavaScript (Angular, React, Vue) 🔄 (En curso)
+🔗 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
 
 ---
 
-## 🌐 Idiomas
+## Habilidades Técnicas
+
+**Frontend / Desarrollo Web**  
+- HTML5 semántico, CSS3 responsivo, JavaScript (nivel básico)  
+- En aprendizaje: React, Angular  
+
+**Diseño UI/UX**  
+- Figma: wireframes, prototipos interactivos, diseño modular  
+- Principios de diseño centrado en el usuario  
+- Arquitectura visual enfocada en navegación clara  
+
+**Sistemas / Soporte Técnico**  
+- Instalación y mantenimiento básico de sistemas y software  
+- Diagnóstico de errores comunes en Windows  
+
+**Metodologías Ágiles**  
+- Experiencia como Scrum Master  
+- Trabajo en equipo con enfoque ágil  
+
+---
+
+## Formación
+
+**Universidad Autónoma de Occidente**  
+Ingeniería en Software (2022 – Actualidad)
+
+**Udemy – Universidad del Desarrollo Web**  
+HTML5, CSS3, JavaScript, Git y más – _Completado_
+
+**Udemy – Universidad JavaScript: Angular, React, Vue y más**  
+Fundamentos y práctica en frameworks modernos – _En curso_
+
+---
+
+## Idiomas
 
 - Español: Nativo  
 - Inglés: Básico
 
 ---
 
-## 📎 Contacto (opcional)
+## Contacto
 
-Puedes contactarme o ver más en mis redes (agrega esto si tienes):
-- LinkedIn: [linkedin.com/in/tuusuario](#)
-- Correo: [tucorreo@gmail.com](#)
+- Correo: aureastorga12@gmail.com
