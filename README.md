@@ -25,6 +25,11 @@ Me interesa crear productos digitales intuitivos, funcionales y visualmente clar
 
 🔗 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
+Vista Previa
+![SmartAgenda Preview](./assets/smartagenda-preview)
+
+
+
 ---
 
 ### ForoLince – Diseño UI/UX
