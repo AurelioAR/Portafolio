@@ -39,6 +39,8 @@ Vista Previa
 - Adaptación al estilo solicitado, sin añadir funciones avanzadas.
 
 🔗 [Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?m=auto&t=JrgXVk75v9MmxhXI-6)
+Vista Previa
+![Forolince Preview](.assets/forolince-preview)
 
 ---
 
