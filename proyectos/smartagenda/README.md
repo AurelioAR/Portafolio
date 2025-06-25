@@ -37,6 +37,7 @@ Toda la lógica y persistencia se ejecuta directamente en el dispositivo (Edge C
 
 ## Vista Previa
 ![SmartAgenda Preview](./assets/smartagenda-preview)
+
 ![SmartAgenda Gif](./assets/smartagenda-gif)
 
 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
