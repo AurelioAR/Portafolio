@@ -1,5 +1,6 @@
 # SmartAgenda – Diseño UI/UX + Desarrollo
 Mayo del 2025.
+
 Prototipo funcional de una app de recordatorios
 
 ## Rol en el Proyecto
