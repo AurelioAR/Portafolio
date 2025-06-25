@@ -1,6 +1,6 @@
 # Forolince – Diseño UI/UX
 
-Diseño de interfaz para una app de foros académicos, enfocada en claridad visual, jerarquía de contenido y facilidad de implementación.
+Diseño de interfaz para una app de foros académicos, enfocada en claridad visual, jerarquía de contenido y facilidad de implementación. - Abril del 2024
 
 ## Rol en el Proyecto
 - Me encargué exclusivamente del diseño de la aplicación en Figma.
