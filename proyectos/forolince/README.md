@@ -19,6 +19,6 @@ Diseño de interfaz para una app de foros académicos, enfocada en claridad visu
 ## Vista Previa
 ![Forolince Preview](./assets/forolince-preview)
 
-[Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?node-id=0-1&p=f&t=e4uDvBaQnfxJbU95-0))
+[Ver diseño en Figma](https://www.figma.com/design/kwQtlyLQSHZK9XBSZuesDy/Foro-Lince?node-id=0-1&p=f&t=e4uDvBaQnfxJbU95-0)
 
 [Ver proyecto expandido](./forolince/README.md) <!-- Ajusta esta ruta según tu estructura -->
