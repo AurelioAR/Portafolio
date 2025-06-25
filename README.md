@@ -89,4 +89,4 @@ Fundamentos y práctica en frameworks modernos – _En curso_
 
 ## Contacto
 
-- Correo: aureastorga12@gmail.com
+- Correo: aurelioastorga.rod@gmail.com
