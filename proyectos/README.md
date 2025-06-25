@@ -14,7 +14,7 @@ Estos proyectos reflejan mi enfoque en el desarrollo frontend, diseño UI/UX, y 
 
 ### Lista de proyectos
 
-- [SmartAgenda](./SmartAgenda) — App de recordatorios: UI/UX + desarrollo en React Native.
-- [Forolince](./Forolince) — Prototipo UI para aplicación tipo red social.
+- [SmartAgenda](./smartagenda) — App de recordatorios: UI/UX + desarrollo en React Native.
+- [Forolince](./forolince) — Prototipo UI para aplicación tipo red social.
 
 ---
