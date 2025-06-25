@@ -1,5 +1,5 @@
 # SmartAgenda – Diseño UI/UX + Desarrollo
-Prototipo funcional de una app de recordatorios - Mayo del 2025
+>Prototipo funcional de una app de recordatorios - Mayo del 2025
 
 ## Rol en el Proyecto
 Asumí el rol de Scrum Master y líder de diseño:
