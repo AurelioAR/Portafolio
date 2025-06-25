@@ -14,7 +14,7 @@ Diseño de interfaz para una app de foros académicos, enfocada en claridad visu
 - Componentes reutilizables para una implementación más eficiente.
 
 ## Herramientas
-- Figma (Wireframes, prototipo visual y componentes reutilizables)
+- Figma (Prototipo visual y componentes reutilizables)
 
 ## Vista Previa
 ![Forolince Preview](./assets/forolince-preview.png)
