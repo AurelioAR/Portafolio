@@ -43,8 +43,3 @@ Sistema web desarrollado para la gestión de folios internos, enfocado en el reg
 - Consulta de información almacenada.
 - Generación de reportes exportables a Excel.
 
-## Vista Previa
-
-![RESC Preview](./assets/resc-preview.png)
-
-[Ver proyecto expandido](./RESC/README.md) <!-- Ajusta esta ruta según tu estructura -->
