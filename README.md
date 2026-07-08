@@ -45,7 +45,7 @@ Me interesa crear productos digitales funcionales, intuitivos y visualmente clar
 
 ### Vista previa
 
-![SmartAgenda Preview](./assets/smartagenda-preview.png)
+![SmartAgenda Preview](./assets/smartagenda-preview)
 
 ---
 
@@ -63,7 +63,7 @@ Me interesa crear productos digitales funcionales, intuitivos y visualmente clar
 
 ### Vista previa
 
-![ForoLince Preview](./assets/forolince-preview.png)
+![ForoLince Preview](./assets/forolince-preview)
 
 ---
 
