@@ -42,7 +42,7 @@ Toda la lógica y persistencia se ejecuta directamente en el dispositivo (Edge C
 
 [Ver prototipo en Figma](https://www.figma.com/design/7ktaxUxNghY21Nnnf6xgNa/SmartAgenda?m=auto&t=JrgXVk75v9MmxhXI-6)
 
-[Ver proyecto expandido](./smartagenda/README.md) <!-- Ajusta esta ruta si lo necesitas -->
+[Ver proyecto expandido](./smartagenda/README.md) 
 
 ## Aprendizajes clave
 - Aprendí a trabajar con React Native y comprender su ciclo de vida y componentes.
