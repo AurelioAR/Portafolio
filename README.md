@@ -29,6 +29,12 @@ Me interesa crear productos digitales funcionales, intuitivos y visualmente clar
 
 [Ver proyecto detallado](./proyectos/RESC/)
 
+### Vista previa
+
+![RESC Preview](./assets/resc-preview)
+
+>Por motivos de confidencialidad, no se muestran capturas, código fuente ni información interna del sistema. La descripción se limita a las tecnologías utilizadas, responsabilidades generales y tipo de actividades realizadas.
+
 ---
 
 ### SmartAgenda | Diseño UI/UX + Desarrollo
