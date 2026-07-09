@@ -7,7 +7,7 @@ Culiacán, Sinaloa | Universidad Autónoma de Occidente | 2022 - 2026
 
 ## Sobre mí
 
-Soy Ingeniero de Software Jr con enfoque en desarrollo web, bases de datos y diseño de interfaces centradas en el usuario. Tengo experiencia en mantenimiento y actualización de sistemas web internos desarrollados en ASP.NET Web Forms bajo .NET, así como en revisión, validación y manejo de bases de datos en SQL Server.
+Egresado de Ingenieria de Software con enfoque en desarrollo web, bases de datos y diseño de interfaces centradas en el usuario. Tengo experiencia en mantenimiento y actualización de sistemas web internos desarrollados en ASP.NET Web Forms bajo .NET, así como en revisión, validación y manejo de bases de datos en SQL Server.
 
 He trabajado en el desarrollo de aplicaciones web con ASP.NET Core, Blazor Server y SQL Server, participando en ajustes funcionales, cambios de interfaz, soporte técnico y creación de soluciones orientadas a mejorar la organización de procesos internos. También cuento con conocimientos en HTML, CSS, JavaScript, Figma, GitHub y metodologías ágiles como Scrum.
 
