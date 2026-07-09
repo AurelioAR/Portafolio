@@ -107,8 +107,8 @@ Me interesa crear productos digitales funcionales, intuitivos y visualmente clar
 
 ## Formación
 
-**Universidad Autónoma de Occidente**  
-Ingeniería de Software | 2022 - 2026  
+**Universidad Autónoma de Occidente** | 2022 - 2026  
+Ingeniería de Software | Egresado  
 
 **Udemy | Universidad Desarrollo Web**  
 HTML5, CSS3, JavaScript, Git y más | Completado  
