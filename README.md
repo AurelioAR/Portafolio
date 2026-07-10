@@ -97,6 +97,7 @@ Me interesa crear productos digitales funcionales, intuitivos y visualmente clar
 - Instalación y configuración básica de software.
 - Diagnóstico y resolución de incidencias internas.
 - Soporte técnico a usuarios.
+- Levantamiento de requerimentos.
 
 **Herramientas y Metodologías**  
 - Visual Studio, GitHub y herramientas de desarrollo web.
